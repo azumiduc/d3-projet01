@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Scheherazade');
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+@import url('https://fonts.googleapis.com/css?family=Markazi+Text');
+@import url('https://fonts.googleapis.com/css?family=Gruppo');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Serif+Pro');
+
+
+html {
+  font-size: 2em;
+}
+
+body {
+  font-family: 'Scheherazade', serif;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+p {
+  margin-bottom: 1.3em;
+}
+
+h1 {
+  font-family: 'Special Elite', cursive;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h2 {
+  font-family: 'Coming Soon', cursive;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h3 {
+  font-family: 'Gruppo', cursive;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h4 {
+  font-family: 'Nanum Pen Script', cursive;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h5 {
+  font-family: 'Markazi Text', serif;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {font-size: 3em;
+  text-align: center;
+}
+
+h3 {font-size: 3em;
+  text-align: center;
+}
+
+h4 {font-size: 3em;
+  text-align: center;
+}
+
+h5 {font-size: 3em;
+  text-align: center;
+}
+
+
+small, .font_small {font-size: 0.707em;}
