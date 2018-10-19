@@ -1,0 +1,36 @@
+header {
+background: rgb(121, 21, 21);
+color: #ffffff;
+padding: 42px;
+}
+
+header ul {list-style-type: none;
+}
+
+h1 {
+font-size: 64px
+}
+
+ header li {
+  border: 1px dashed #ffffff;
+  padding: 6px;
+  display: inline-block;
+  margin: 12px
+}
+
+
+footer {
+
+  background: #ffffff
+  padding: 42px;
+}
+
+.image-block {
+  border: green 6px solid;
+  max-width: 1200px;
+}
+
+.imageblock img {
+  width: 100%;
+
+}
